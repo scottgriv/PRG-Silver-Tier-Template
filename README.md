@@ -21,18 +21,17 @@
 
 <div align="center">
 <table>
-<tr>
-<td>
-    <div align="center">
-        <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img align="left" src="./docs/images/icon-rounded.png" width="150"></a>
-    </div>
-<h3>What is this Template for?</h3>
-<ul>
-    <li>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> repository categorization system.</li>
-    <li><b>Visit the PRG Repository for more information</b></li>
-</ul>
-</td>
-</tr>
+    <tr>
+        <td>
+            <div align="center">
+                <h3 align="center">What is this Template for?</h3>
+                    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img src="./docs/images/icon-rounded.png" width="100"></a>
+                <br>
+                    <p>This Template is part of the <br><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a><br> repository categorization system.</p>
+                    <b>Visit the PRG Repository for more information.</b>
+            </div>
+        </td>
+    </tr>
 </table>
 </div>
 
