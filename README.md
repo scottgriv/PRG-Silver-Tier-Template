@@ -90,6 +90,9 @@ There should be a number of sections here that correspond to important aspects o
 ## Resources
 
 This section should contain a list of resources that you used to create your project.
+
+Below are some external resources I found helpful when creating **My Project**:
+
 - [Python](https://www.python.org/) - An interpreted, high-level and general-purpose programming language.
 - [Plotly](https://plotly.com/python/) - A Python graphing library that makes interactive, publication-quality graphs online.
 - [Django](https://www.djangoproject.com/) - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
