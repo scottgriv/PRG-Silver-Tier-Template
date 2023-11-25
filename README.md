@@ -63,6 +63,10 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Configuration](#configuration)
+    - [Installation](#installation)
+    - [Deployment](#deployment)
 - [Specific Project Sections](#specific-project-sections)
 - [Resources](#resources)
 - [License](#license)
@@ -71,6 +75,20 @@
 ## Getting Started
 
 This section should contain a list of steps to get your project up and running.
+- You can break this section down into further subsections if you want (such as below: Dependencies, Configuration, Running Locally, Deployment, etc.).
+- Otherwise, you can just include a list of steps to get your project up and running under Getting Started.
+
+### Dependencies
+
+- This section should contain a list of dependencies for your project.
+
+### Configuration
+
+- This section should contain a list of steps to configure your project.
+
+### Installation
+
+- This section should contain a list of steps to install your project.
 - Utilize code blocks to show the commands needed to run your project.
 - e.g.
     1. Clone this repository.
@@ -80,6 +98,10 @@ This section should contain a list of steps to get your project up and running.
         ```bash
         python manage.py runserver
         ```
+
+### Deployment
+
+- This section should contain a list of steps to deploy your project.
 
 ## Specific Project Sections
 
