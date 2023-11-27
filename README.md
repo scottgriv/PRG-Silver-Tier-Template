@@ -1,6 +1,6 @@
 <!-- Begin README -->
 
-[![App Logo](./docs/images/banner_large-silver.png)](https://github.com/scottgriv/PRG-Silver-Tier-Template)
+[![Banner Large](./docs/images/banner_large-silver.png)](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines)
 
 <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10.13-244C6F?style=for-the-badge&logo=python" alt="Python Badge" /></a>
@@ -8,9 +8,9 @@
     <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-5.17.0-7976FF?style=for-the-badge&logo=plotly" alt="Plotly Badge" /></a>
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2.1.0-130753?style=for-the-badge&logo=pandas" alt="Pandas Badge" /></a>
     <br>
-    <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow-9031AC?style=for-the-badge&logo=github&color=9031AC" alt="GitHub Badge" /></a>
-    <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact me-DC4233?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
-    <a href="https://www.buymeacoffee.com/scottgriv"><img src="https://img.shields.io/badge/buy me a coffee-support me-FEDE1F?style=for-the-badge&logo=buymeacoffee&color=FEDE1F" alt="BuyMeACoffee Badge" /></a>
+    <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-9031AC?style=for-the-badge&logo=github&color=9031AC" alt="GitHub Badge" /></a>
+    <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-DC4233?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
+    <a href="https://www.buymeacoffee.com/scottgriv"><img src="https://img.shields.io/badge/buy_me_a_coffee-support_me-FEDE1F?style=for-the-badge&logo=buymeacoffee&color=FEDE1F" alt="BuyMeACoffee Badge" /></a>
     <br>
     <a href="https://prgoptimized.com" target="_blank"><img src="https://img.shields.io/badge/PRG-Silver Project-C0C0C0?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNDMEMwQzAiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="Silver PRG Badge" /></a>
 </p>
@@ -19,6 +19,7 @@
 
 <h1 align="center"><img src="https://via.placeholder.com/22x22/C0C0C0/000000?text=+"> PRG Silver Tier Template</img></h1>
 
+<!-- Remove this block before you commit your README - this is for template reference purposes only -->
 <div align="center">
 <table>
     <tr>
@@ -47,6 +48,7 @@
     </tr>
 </table>
 </div>
+<!-- End Remove Block -->
 
 > [!NOTE]
 > I will be using examples from my project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
