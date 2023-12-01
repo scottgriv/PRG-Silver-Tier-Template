@@ -23,23 +23,42 @@
         <td>
             <div align="center">
                 <h3 align="center">What is this Template for?</h3>
-                    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img src="./docs/images/icon-rounded.png" width="100"></a>
+                <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img src="./docs/images/icon-rounded.png" width="100"></a>
                 <br>
-                    <p>This Template is part of the <br><b><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a></b><br> repository categorization system.</p>
-                    <b>Visit the PRG Repository for more information.</b>
+                <p>This Template is part of the <br><b><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a></b><br> repository categorization system.</p>
+                <b>Visit the PRG Repository for more information.</b>
             </div>
         </td>
         <td>
             <div align="center">
-                <h3 align="center">Looking for other <br>Tier Templates?</h3>
-                    <a href="https://github.com/scottgriv/PRG-Gold-Tier-Template"><img src="./docs/images/icon-gold-rounded.png" width="100"></a>
-                <br>
-                    <p><b><a href="https://github.com/scottgriv/PRG-Gold-Tier-Template">Gold Tier Template</a></b></p>
-            </div>
-            <div align="center">
-                    <a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template"><img src="./docs/images/icon-bronze-rounded.png" width="100"></a>
-                <br>
-                    <p><b><a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template">Bronze Tier Template</a></b></p>
+                <h3 align="center">Looking for other Tier Templates?</h3>
+                <table>
+                    <tr>
+                        <td align="center">
+                            <a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template"><img src="./docs/images/icon-silver-rounded.png" width="100"></a>
+                            <br>
+                            <p><b><a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template">Platinum Tier Template</a></b></p>
+                        </td>
+                        <td align="center">
+                            <a href="https://github.com/scottgriv/PRG-Gold-Tier-Template"><img src="./docs/images/icon-gold-rounded.png" width="100"></a>
+                            <br>
+                            <p><b><a href="https://github.com/scottgriv/PRG-Gold-Tier-Template">Gold Tier Template</a></b></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                        <p align="center"><i>You are here.</i></p>
+                            <a href="https://github.com/scottgriv/PRG-Silver-Tier-Template"><img src="./docs/images/icon-silver-rounded.png" width="100"></a>
+                            <br>
+                            <p><b><a href="https://github.com/scottgriv/PRG-Silver-Tier-Template">Silver Tier Template</a></b></p>
+                        </td>
+                        <td align="center">
+                            <a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template"><img src="./docs/images/icon-bronze-rounded.png" width="100"></a>
+                            <br>
+                            <p><b><a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template">Bronze Tier Template</a></b></p>
+                        </td>
+                    </tr>
+                </table>
             </div>
         </td>
     </tr>
