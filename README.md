@@ -32,7 +32,7 @@
                             <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img src="./docs/images/icon-rounded.png" width="100"></a>
                             <br>
                             <p>This Template is part of the <br><b><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a></b><br> repository categorization system.</p>
-                            <b>Visit the PRG Repository to get started with PRG today.</b>
+                            <b>Visit the PRG Repository<br>to get started with PRG today.</b>
                         </td>
                     </tr>
                     <tr>
@@ -40,7 +40,7 @@
                             <a href="https://prgoptimized.com"><img src="./docs/images/icon_2-rounded.png" width="100"></a>
                             <br>
                             <p>Visit <b><a href="https://prgoptimized.com">The Official PRG Website</a></b><br> for more information.</p>
-                            <b>Submit a pull request to add your PRG Portfolio to the PRG Showcase.</b>
+                            <b>Submit a pull request to add your<br>PRG Portfolio to the PRG Showcase.</b>
                         </td>
                     </tr>
                 </table>
