@@ -37,7 +37,7 @@
                     </tr>
                     <tr>
                         <td align="center">
-                            <a href="https://prgoptimized.com"><img src="./docs/images/icon_2-rounded.png" width="100"></a>
+                            <a href="https://prgoptimized.com"><img src="./docs/images/icon-website-rounded.png" width="100"></a>
                             <br>
                             <p>Visit <b><a href="https://prgoptimized.com">The Official PRG Website</a></b><br> for more information.</p>
                             <b>Submit a pull request to add your<br>PRG Portfolio to the PRG Showcase.</b>
