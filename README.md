@@ -1,7 +1,11 @@
 <!-- Begin README -->
 
-[![Banner Large](./docs/images/banner_large-silver.png)](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines)
-
+<div align="center">
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+        <img src="./docs/images/banner_large-silver.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
+    </a>
+</div>
+<br>
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
     <br>
@@ -93,6 +97,10 @@
     - This is optional, but highly recommended especially for **Gold** projects.
     - Animations in the form of GIFs are also a great way to showcase your project.
 
+> [!WARNING]
+> Be sure to remove the [.gitattributes](.gitattributes) file from this repository.
+> It's used to classify this template repository as a Markdown file on GitHub only, and not needed.
+
 ---------------
 
 ## Table of Contents
@@ -105,6 +113,9 @@
 - [Specific Project Sections](#specific-project-sections)
 - [Resources](#resources)
 - [License](#license)
+    -[MIT](#mit)
+    -[GNU](#gnu)
+    -[The Unlicense](#the-unlicense)
 - [Credits](#credits)
 
 ## Getting Started
@@ -157,11 +168,37 @@ Below are some external resources I found helpful when creating **My Project**:
 
 ## License
 
-This section should contain the license for your project.
+This section should contain the license for your project. It should include a link to your actual license file inside your repository, and a link to [Choose an open source license](https://choosealicense.com) for reference.
+
+> [!IMPORTANT]
+> Use the [docs/LICENSE/](docs/LICENSE/) directory to pick amongst a few popular license files for your project.
+> You can also visit [Choose an open source license](https://choosealicense.com) to pick your own that's not included with this template.
+> If you don't include a `LICENSE` file, see what happens [here](https://choosealicense.com/no-permission/).
+> For a zero restriction license, choose [The Unlicense](https://choosealicense.com/licenses/unlicense/).
+
+> [!WARNING]
+> Be sure to remove the [docs/LICENSE/](docs/LICENSE/) directory from this repository when you're done picking your license.
+> Be sure to include your [LICENSE](LICENSE) file in the `root` of your repository and change the link below to point towards it.
+
+*Examples:*
+
+### MIT
 
 This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
 - The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
-- For more details, see the [LICENSE](LICENSE) file in this repository. in this repository.
+- For more details and to understand all requirements and conditions, see the [LICENSE](docs/LICENSE/MIT/LICENSE) file in this repository.
+
+### GNU
+
+This project is released under the terms of the **GNU General Public License, version 3 (GNU GPLv3)**, which ensures that derivatives of the software remain open source.
+- The [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) is a "copyleft" license, ensuring that derivatives of the software remain open source and under the GPL.
+- For more details and to understand all requirements and conditions, see the [LICENSE](docs/LICENSE/GNU/LICENSE) file in this repository.
+
+### The Unlicense
+
+This project is released under the terms of **The Unlicense**, which allows you to use, modify, and distribute the code as you see fit. 
+- [The Unlicense](https://choosealicense.com/licenses/unlicense/) removes traditional copyright restrictions, giving you the freedom to use the code in any way you choose.
+- For more details and to understand all requirements and conditions, see the [LICENSE](docs/LICENSE/Unlicense/LICENSE) file in this repository.
 
 ## Credits
 
