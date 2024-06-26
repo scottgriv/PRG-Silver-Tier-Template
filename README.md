@@ -35,7 +35,7 @@
                         <td align="center">
                             <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img src="./docs/images/icon-rounded.png" width="100"></a>
                             <br>
-                            <p>This Template is part of the <br><b><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a></b><br> repository categorization system.</p>
+                            <p>This Template is part of the <br><b><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a></b><br> repository categorization and guideline framework.</p>
                             <b>Visit the PRG Repository<br>to get started with PRG today.</b>
                         </td>
                     </tr>
