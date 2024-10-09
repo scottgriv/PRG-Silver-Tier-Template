@@ -98,8 +98,12 @@
     - Animations in the form of GIFs are also a great way to showcase your project.
 
 > [!WARNING]
-> Be sure to remove the [.gitattributes](.gitattributes) file from this repository.
-> It's used to classify this template repository as a Markdown file on GitHub only, and not needed.
+> Be sure to change the [PRG Connection File](PRG.md) **Repository Tier** parameter from **Optimized** to **Bronze** in order to correctly categorize this repository.
+> All templates are currently set to the uncategorized "**Optimized**" option, so be sure to change this.
+
+> [!WARNING]
+> Be sure to change or remove the [.gitattributes](.gitattributes) file from this repository.
+> It's used to classify this template repository as a Markdown file on GitHub only, and is not needed.
 
 ---------------
 
