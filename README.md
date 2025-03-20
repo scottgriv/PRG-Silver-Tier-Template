@@ -21,7 +21,7 @@
 
 ---------------
 
-<h1 align="center"><img src="https://via.placeholder.com/22x22/C0C0C0/000000?text=+"> PRG Silver Tier Template</img></h1>
+<h1 align="center"><img src="https://placehold.co/22x22/C0C0C0/C0C0C0"> PRG Silver Tier Template</img></h1>
 
 <!-- Remove this block before you commit your README - this is for template reference purposes only -->
 <div align="center">
